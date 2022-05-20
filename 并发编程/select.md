@@ -1,3 +1,4 @@
+```Go
 package main
 
 import "fmt"
@@ -104,3 +105,5 @@ func main() {
 	OnlyOneSelect()
 	SelectUseDefault()
 }
+
+```

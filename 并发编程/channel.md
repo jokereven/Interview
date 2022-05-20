@@ -1,3 +1,4 @@
+```Go
 package main
 
 import "fmt"
@@ -160,3 +161,4 @@ func main() {
 	WhenChannelClosed()
 	dire()
 }
+```
